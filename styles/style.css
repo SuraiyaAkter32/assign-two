@@ -270,7 +270,7 @@ nav li {
 /* sponser style */
 
 .sponser{ 
-  position: absolute;
+  position: center;
   margin-top: 4000px;
   background: #ffffff;
   text-align: center;
@@ -293,8 +293,8 @@ color: #727272;
 }
 /* Extra add */
 .extra{
-  position: absolute;
-  margin-top: 4300px;
+  position: center;
+  margin-top: 100px;
   text-align: center;
   left: 650px;
 }
